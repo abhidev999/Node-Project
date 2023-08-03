@@ -1,0 +1,11 @@
+git status (to know the uncommited local changes)
+
+git add . (to check in all files in staging area ) / file name
+
+git commit -m "commitmsg"
+
+git push origin branch-name
+
+
+
+
